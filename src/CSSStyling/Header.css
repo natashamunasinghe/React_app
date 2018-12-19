@@ -1,0 +1,23 @@
+.header {
+  fontSize: 50px;
+  border: 1px groove blue;
+}
+
+/* .subheader {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+} */
+
+h2 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
+
+p {
+  font-family: "Arial";
+  font-size: 20px;
+}
+
+
